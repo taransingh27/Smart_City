@@ -1,5 +1,5 @@
 # Smart_City
-A working Project using java and Sql to create a portal for smart city.
+A working Project using javato create a portal for smart city.
 
 Created by:
 
