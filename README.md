@@ -1,5 +1,6 @@
 # Smart_City
 A working Project using java and Sql to create a portal for smart city.
+
 Created by:
 
 Taran Singh B.Tech 3rd year GLA University
